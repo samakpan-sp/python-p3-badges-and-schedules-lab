@@ -10,7 +10,7 @@
 ## Key Vocab
 
 - **Interpreter**: a program that executes other programs. Python programs
-require the Python interpreter to be installed on your computer so that they
+require the Python interpreter to be installed on yoursource computer so that they
 can be run.
 - **Python Shell**: an interactive interpreter that can be accessed from the
 command line.
